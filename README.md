@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vitorjimenez
+- 🌱 I’m currently learning how to programming
+- 📫 How to reach me IG @hyperpolarized_
