@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @vitorjimenez
-- 🌱 Currently learning frontend!
-- 📫 How to reach me IG @hyperpolarized_
+- 🌱Currently studying Java and React Native!
+- 📫 How to reach me Linkedin: https://www.linkedin.com/in/vitorjimenez/
+- Thanks for your time!
