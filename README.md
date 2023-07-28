@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vitorjimenez
-- 🌱Currently studying Java and React Native!
+- 🌱Currently studying HTML, CSS, JS, MySql and startin with Java!
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/vitorjimenez/
 - Thanks for your time!
