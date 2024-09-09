@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vitorjimenez
-- 🌱Currently studying HTML, CSS, JS, MySql and starting with Java!
-- 📫 How to reach me Linkedin: https://www.linkedin.com/in/vitorjimenez/
+- 👋 Hi, I’m Vitor!
+- 🌱Currently studying Java/Springboot and Frontend Technologies, as React!
+- 📫 How to reach me: https://www.linkedin.com/in/vitorjimenez/
 - Thanks for your time!
