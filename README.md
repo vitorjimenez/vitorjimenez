@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vitor!
-- 🌱Currently studying Java/Springboot and Frontend Technologies, as React!
-- 📫 How to reach me: https://www.linkedin.com/in/vitorjimenez/
+- 🌱Currently studying Java/Springboot and Frontend Technologies, as React/Next.js!
+- 📫 How to reach me: linkedin.com/in/vitorjimenez
 - Thanks for your time!
